@@ -1,0 +1,7 @@
+<?php
+define ('TENTATIVAS_PARA_CAPTCHA', 3);
+
+define('CAPTCHA_PUBLICKEY', "6LdNxsUSAAAAAGW4mWfRbO_uNqgl6DCq05R_zrhM");
+define('CAPTCHA_PRIVATEKEY', "6LdNxsUSAAAAABRFe_NFKlIsw5gngmhF9B_RuGo5");
+
+?>

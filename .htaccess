@@ -1,0 +1,9 @@
+RewriteEngine On
+#Define a pasta da raiz (desenvolvimento)
+RewriteBase /tickets/
+
+#Se a URL apontar para um arquivo, vai diretamente para ele
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#Regras de redirecionamento
+RewriteRule ^(.*)$ index.php [QSA,L]

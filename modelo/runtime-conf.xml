@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!--
+    Document   : runtime-conf.xml
+    Created on : 23 de Setembro de 2009, 11:28
+    Author     : Jaison Vargas Veneri
+    Description:
+        Purpose of the document follows.
+-->
+<config>
+ <log>
+  <type>file</type>
+  <name>c:/xampp/htdocs/tickets/log/log.log</name>
+  <ident>propel-log</ident>
+  <level>7</level>
+ </log>
+  <propel>
+    <datasources default="tickets">
+      <datasource id="tickets"> <!-- this ID must match <database name=""> in schema.xml -->
+        <adapter>mysql</adapter> <!-- sqlite, mysql, myssql, oracle, or pgsql -->
+        <connection>
+          <classname>DebugPDO</classname><!-- usar: ONLINE: PropelPDO | LOCAL: DebugPDO -->
+          <dsn>mysql:host=localhost;dbname=tickets</dsn> <!-- the PDO connection DSN for database -->
+          <user>root</user> <!-- the PDO connection DSN for database -->
+          <password>123456</password> <!-- the PDO connection DSN for database -->
+        </connection>
+      </datasource>
+    </datasources>
+  </propel>
+</config>

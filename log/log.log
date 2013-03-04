@@ -1,0 +1,96 @@
+mar 01 16:37:18 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:37:18 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:37:18 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:37:53 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:37:53 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:37:53 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:38:03 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:03 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:03 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:38:14 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:14 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:14 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:38:28 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:28 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:38:28 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:40:28 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:40:28 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:40:28 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:40:56 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:40:56 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:40:56 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:41:08 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:08 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:08 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:41:19 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:19 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:19 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 16:41:50 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:50 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 16:41:50 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 17:53:47 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:53:47 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:53:47 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 17:53:52 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:53:52 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:53:52 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 17:54:10 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:10 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:10 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 17:54:31 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:31 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:32 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 17:54:44 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:44 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 17:54:44 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:05:42 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:05:42 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:05:42 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:06:00 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:00 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:00 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:06:19 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:19 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:19 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:06:26 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:26 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:26 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:06:43 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:43 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:43 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:06:48 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:48 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:06:48 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:07:32 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:07:32 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:07:32 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 19:07:37 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:07:37 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 19:07:37 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 20:13:42 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 20:13:42 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 20:13:42 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 21:38:26 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:26 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:26 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 21:38:36 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:36 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:36 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 21:38:45 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:45 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 21:38:45 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 22:53:39 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 22:53:39 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 22:53:39 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 01 23:55:57 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 23:55:57 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 01 23:55:57 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 02 00:58:37 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 00:58:37 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 00:58:37 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 02 01:08:31 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 01:08:31 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 01:08:31 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10
+mar 02 01:09:20 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 01:09:20 propel-log [debug] SELECT COUNT(*) FROM `cliente`
+mar 02 01:09:20 propel-log [debug] SELECT cliente.ID, cliente.NOME, cliente.SOBRENOME, cliente.NOME_FANTASIA, cliente.RAZAO_SOCIAL, cliente.CPF, cliente.CNPJ, cliente.TIPO, cliente.USUARIO, cliente.SENHA, cliente.ATIVO, cliente.EMAIL, cliente.URL FROM `cliente` ORDER BY cliente.ID DESC LIMIT 10

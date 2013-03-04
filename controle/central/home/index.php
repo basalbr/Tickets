@@ -1,0 +1,3 @@
+<?php
+$includeKey = "central/home";
+?>
